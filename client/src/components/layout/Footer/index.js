@@ -6,7 +6,7 @@ const AppFooter = () => {
   return (
     <div className={styles.container}>
       <p>
-        Copyright © 2022 | <Link to="/about">Anh Tran</Link>
+        Copyright © 2023 | <Link to="/about">Khuong Duy</Link>
       </p>
     </div>
   );
