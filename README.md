@@ -38,12 +38,6 @@ yarn
 yarn start
 ```
 
-- And enjoy this moment!
-
-## Authors
-
-- [Trần Thế Anh](https://github.com/anhtt2211/)
-
 ## Feedback
 
 Create a feedback in [Issues](https://github.com/anhtt2211/lang/issues) section, each of your feedback will help us improve the app. Thank you once again for your assistance!
